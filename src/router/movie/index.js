@@ -7,7 +7,7 @@ export default {
             component: () => import('@/components/City')
         },
         {
-            path: 'nowplaying',
+            path: 'nowPlaying',
             component: () => import('@/components/NowPlaying')
         },
         {

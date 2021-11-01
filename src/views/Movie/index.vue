@@ -13,10 +13,10 @@
             <div class="search_entry">
                 <i class="iconfont icon-sousuo"></i>
             </div>
-            <keep-alive>
-                <router-view />
-            </keep-alive>
         </div>
+        <keep-alive>
+            <router-view />
+        </keep-alive>
     </div>
     <TabBar />
 </template>

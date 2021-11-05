@@ -8,7 +8,7 @@ const routes = [
   mineRouter,
   //路由重定向
   {
-    path: '/*',
+    path: '/',
     redirect: '/movie'
   }
 ]
